@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>
+			Images and Videos-Website About Pendulums
+		</title>
+	</head>
+	<body>
+	<div class=”Navigation”>
+
+	</div class=”Navigation”>
+	<div class=”Main”>
+		<center>
+			<h1>
+				Images and Videos-Website About Pendulums
+			</h1>
+			<h2>
+				Here is a picture of our Physics teacher, Hasan Zerze, Ph.D.
+			</h2>
+		</center>
+		<img src= "https://i1.rgstatic.net/ii/profile.image/432051645095937-1480020547115_Q512/Hasan_Zerze.jpg” alt=”Our Teacher”/>	
+	</div class=”Main”>		
+	</body>
+</html>
+
