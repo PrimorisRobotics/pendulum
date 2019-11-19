@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>
@@ -16,10 +15,9 @@
 			</h1>
 			<h2>
 				Here is a picture of our Physics teacher, Hasan Zerze, Ph.D.
-				<img src= "Download.jpg” alt= ”Our Teacher”>
 			</h2>
-		</center>	
+		
+		<center><img src="Download.jpg" alt=”Our Teacher”></center>	
 	</div class=”Main”>		
 	</body>
 </html>
-
