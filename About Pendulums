@@ -5,7 +5,7 @@
   </head>
   <body>
   <div class="nav">
-    <ul>
+    <ul>       						
       <li> <cite a href src="Home Page Name"/> </li>
       <li> <cite a href src="About Pendulums Page Name"/> </li>
       <li> <cite a href src=" Experiments Page Name"/> </li>
