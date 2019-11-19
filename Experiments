@@ -4,6 +4,8 @@
     <title> Experiment - Pendulum Website </title> 
   </head>
   <body>
+     <style>
+     	body{background color: #fa9632}
   <div class="nav">
     <ul>
       	 <li><a href="yeet.html">home page</a></li>
