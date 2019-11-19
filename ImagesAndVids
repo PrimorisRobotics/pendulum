@@ -15,9 +15,9 @@
 			</h1>
 			<h2>
 				Here is a picture of our Physics teacher, Hasan Zerze, Ph.D.
+				<img src= "Download.jpg” alt= ”Our Teacher”>
 			</h2>
-		</center>
-		<img src= "https://i1.rgstatic.net/ii/profile.image/432051645095937-1480020547115_Q512/Hasan_Zerze.jpg” alt=”Our Teacher”>	
+		</center>	
 	</div class=”Main”>		
 	</body>
 </html>
