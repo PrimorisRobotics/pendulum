@@ -6,10 +6,10 @@
   <body>
   <div class="nav">
     <ul>
-      <li> <cite a href src="Home Page Name"/> </li>
-      <li> <cite a href src="About Pendulums Page Name"/> </li>
-      <li> <cite a href src=" Experiments Page Name"/> </li>
-      <li> <cite a href src="Img/Vid Page Name"/> </li>
+      	 <li><a href="yeet.html">home page</a></li>
+ 	 <li><a href="news.asp">class</a></li>
+	 <li><a href="contact.asp">Contact</a></li>
+	 <li><a href="pics.html">pictures</a></li>
   </div>
   <div class="main">
     A pendulum is a weight hung from a fixed point so that it can swing freely backward and forward, especially a rod with a weight at the end that regulates the mechanism of a clock.
