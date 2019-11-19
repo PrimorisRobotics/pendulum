@@ -14,6 +14,6 @@
   <div class="main">
     Here is a link to Thomas's results:
     <p>
-    <cite a href src="https://docs.google.com/spreadsheets/d/189gSibh3jqo5k-9aIlV3LrUM8tyqhqYyLOAakEW5MuY/edit?usp=sharing"/>
+    <cite> <a href src="https://docs.google.com/spreadsheets/d/189gSibh3jqo5k-9aIlV3LrUM8tyqhqYyLOAakEW5MuY/edit?usp=sharing"> </cite>
   </div>
 </html>
