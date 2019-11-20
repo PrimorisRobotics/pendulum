@@ -1,19 +1,38 @@
 <!DOCTYPE html>
+
 <html>
-  <head>
-    <title> About Pendulums - Pendulum Website </title> 
-  </head>
-  <body>
-  <div class="nav">
-    <ul>       						
-      <li> <cite a href src="Home Page Name"/> </li>
-      <li> <cite a href src="About Pendulums Page Name"/> </li>
-      <li> <cite a href src=" Experiments Page Name"/> </li>
-      <li> <cite a href src="Img/Vid Page Name"/> </li>
-  </div>
-  <div class="main">
-    Here is a link to Thomas's results:
-    <p>
-    <cite> <a href src="https://docs.google.com/spreadsheets/d/189gSibh3jqo5k-9aIlV3LrUM8tyqhqYyLOAakEW5MuY/edit?usp=sharing"> </cite>
-  </div>
+  
+	<head>
+    
+		<title> About Pendulums - Pendulum Website </title> 
+  
+	</head>
+  
+	<body>
+  
+		<div class="nav">
+    
+			<ul>       						
+     
+				<li> <cite a href src="homepage.html"/> </li>
+      
+				<li> <cite a href src="aboutpendulums.html"/> </li>
+      
+				<li> <cite a href src="experiments.html"/> </li>
+      
+				<li> <cite a href src="imagevid.html"/> </li>
+ 
+			</ul> 
+		</div>
+  
+		<div class="main">
+    
+			Here is a link to Thomas's results:
+    
+			<p>
+    
+			<cite> <a href src="https://docs.google.com/spreadsheets/d/189gSibh3jqo5k-9aIlV3LrUM8tyqhqYyLOAakEW5MuY/edit?usp=sharing"> </cite>
+		</div>
+	</body>
+
 </html>
