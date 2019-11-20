@@ -13,10 +13,10 @@
 		<div class="container">
 		<div class=”Navigation”>
 		<ul>
-  			<li><a href="experiments.html">experiment</a></li>
-  			<li><a href="results.html">procedure</a></li>
- 			 <li><a href="yeet.html">home page</a></li>
-			  <li><a href="ImagesAndVids.html">pictures</a></li>
+  			<li><a href="homepage.html">Home Page</a></li>
+  			<li><a href="aboutpendulums.html">About Pendulums</a></li>
+ 			 <li><a href="experiments.html">The Experiment</a></li>
+			  <li><a href="imagevids.html">Pictures</a></li>
 </ul>
 		</div class=”Navigation”>
 		<div class=”Main”>
