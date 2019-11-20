@@ -1,22 +1,22 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title> About Pendulums - Pendulum Website </title> 
-  </head>
-  <body>
-  <div class="nav">
-    <ul>       						
-        <li><a href="experiments.html">experiment</a></li>
-  	<li><a href="results.html">procedure</a></li>
- 	 <li><a href="yeet.html">home page</a></li>
-	 <li><a href="ImagesAndVids.html">pictures</a></li>
-    </ul>
-  </div>
-  <div class="main">
-	<body style="background-color:aqua;">
-    Here is a link to Thomas's results:
-    <p>
-    <cite> <a href="https://docs.google.com/spreadsheets/d/189gSibh3jqo5k-9aIlV3LrUM8tyqhqYyLOAakEW5MuY/edit?usp=sharing"><i>Thomas Results</i></a></cite>
-  </div>
-  </body>
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		<title> Experiment - Pendulum Website </title> 
+	</head> 
+	<body> 
+		<style> 
+			body{background color: #fa9632} 
+		</style>
+		<div class="nav"> 
+			<ul> 
+				<li><a href="homepage.html">Home Page</a></li>
+				<li><a href="aboutpendulums.html">About Pendulums</a></li> 
+				<li><a href="experiments.html">Experiment</a></li> 
+				<li><a href="imagevid.html">Pictures</a></li> 
+			</ul>
+		</div> 
+		<div class="main"> 
+			A pendulum is a weight hung from a fixed point so that it can swing freely backward and forward, especially a rod with a weight at the end that regulates the mechanism of a clock. 
+		</div> 
+	</body>
 </html>
