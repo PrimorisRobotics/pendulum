@@ -18,7 +18,8 @@
   </div>
   <div class="main">
 	<body style="background-color:aqua;">
-    <p style="font-size:30px"><b>A pendulum is a weight hung from a fixed point so that it can swing freely backward and forward, especially a rod with a weight at the end that regulates the mechanism of a clock.</b></font>
+    	<p style="font-size:30px"><b>A pendulum is a weight hung from a fixed point so that it can swing freely backward and forward, especially a rod with a weight at the end that regulates the mechanism of a clock.</b></font>
 	<center><img src="pendulum.jpg" alt=”A pendulum”></center>
+	Our experiment was to find out which of the following affected the time for 1 oscillation: the rope length, the weight of the object on the pendulum, and the release angle.
   </div>
 </html>
