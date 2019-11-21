@@ -6,7 +6,14 @@
 	</head>
 	<body>
 	<div class=”Navigation”>
-
+		<ul>
+      	 		<li><p style="font-size:30px"><a href="yeet.html">home page</a></b></font></li>
+ 	 		<li><p style="font-size:30px"><a href="results.html">procedure</a></b></font></li>
+	 		<li><p style="font-size:30px"><a href="ImagesAndVids.html">pictures</a></b></font></li>
+	 		<li><p style="font-size:30px"><a href="experiments.html">about pendulums</a></b></font></li>
+			</b></font>
+		</ul>
+  	</div>
 	</div class=”Navigation”>
 	<div class=”Main”>
 		<style>
