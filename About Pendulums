@@ -4,6 +4,9 @@
     <title> About Pendulums - Pendulum Website </title> 
   </head>
   <body>
+  <style>
+  	body{background color: #78EB61}
+  </style>
   <div class="nav">
     <ul>
 	 
