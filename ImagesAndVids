@@ -3,6 +3,7 @@
 		<title>
 			Images and Videos-Website About Pendulums
 		</title>
+		<link rel="stylesheet" href="styles.css">
 	</head>
 	<body>
 	<div class=”Navigation”>
