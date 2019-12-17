@@ -8,11 +8,10 @@
   <div class="nav">
     <ul>
 	 
-      	 <li><a href="yeet.html">home page</a></b></font></li>
- 	 <li><a href="results.html">procedure</a></b></font></li>
-	 <li><a href="ImagesAndVids.html">pictures</a></b></font></li>
-	 <li><a href="experiments.html">about pendulums</a></b></font></li>
-	<li><a href="About_Us.html">About Us</a></b></font></li>
+      	 <li><a href="homepage.html">home page</a></b></font></li>
+ 	 <li><a href="maboutpendulums.html">about pendulums</a></b></font></li>
+	 <li><a href="imagevid.html">pictures</a></b></font></li>
+	 <li><a href="experiments.html">experiment</a></b></font></li>
 	</b></font>
   </div>
   <div class="main">
