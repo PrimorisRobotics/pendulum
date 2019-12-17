@@ -6,16 +6,14 @@
 		<link rel="stylesheet" href="styles.css">
 	</head>
 	<body>
-	<div class=”Navigation”>
+	<div class=”nav”>
 		<ul>
-      	 		<li><p style="font-size:30px"><a href="yeet.html">home page</a></b></font></li>
- 	 		<li><p style="font-size:30px"><a href="results.html">procedure</a></b></font></li>
-	 		<li><p style="font-size:30px"><a href="ImagesAndVids.html">pictures</a></b></font></li>
-	 		<li><p style="font-size:30px"><a href="experiments.html">about pendulums</a></b></font></li>
-			</b></font>
+      	 		<li><a href="yeet.html">home page</a></li>
+ 	 		<li><a href="results.html">procedure</a>
+	 		<li><a href="ImagesAndVids.html">pictures</a></li>
+	 		<li><a href="experiments.html">about pendulums</a></li>
 		</ul>
-  	</div>
-	</div class=”Navigation”>
+	</div>
 	<div class=”Main”>
 		<style>
 		body{background-color: #ff3300;}
