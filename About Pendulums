@@ -1,25 +1,24 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> About Pendulums - Pendulum Website </title> 
+    <title> Experiment - Pendulum Website </title>
+	<link rel="stylesheet" type="text/css" href="mystyle.css"> 
   </head>
   <body>
-  <style>
-  	body{background color: #78EB61}
-  </style>
   <div class="nav">
     <ul>
 	 
-      	 <li><p style="font-size:30px"><a href="yeet.html">home page</a></b></font></li>
- 	 <li><p style="font-size:30px"><a href="results.html">procedure</a></b></font></li>
-	 <li><p style="font-size:30px"><a href="ImagesAndVids.html">pictures</a></b></font></li>
-	 <li><p style="font-size:30px"><a href="experiments.html">about pendulums</a></b></font></li>
+      	 <li><a href="yeet.html">home page</a></b></font></li>
+ 	 <li><a href="results.html">procedure</a></b></font></li>
+	 <li><a href="ImagesAndVids.html">pictures</a></b></font></li>
+	 <li><a href="experiments.html">about pendulums</a></b></font></li>
+	<li><a href="About_Us.html">About Us</a></b></font></li>
 	</b></font>
   </div>
   <div class="main">
 	<body style="background-color:aqua;">
-    	<p style="font-size:30px"><b>A pendulum is a weight hung from a fixed point so that it can swing freely backward and forward, especially a rod with a weight at the end that regulates the mechanism of a clock.</b></font>
+    <p style="font-size:30px"><b>A pendulum is a weight hung from a fixed point so that it can swing freely backward and forward, especially a rod with a weight at the end that regulates the mechanism of a clock.</b></font>
 	<center><img src="pendulum.jpg" alt=”A pendulum”></center>
-	Our experiment was to find out which of the following affected the time for 1 oscillation: the rope length, the weight of the object on the pendulum, and the release angle.
   </div>
+	</body>
 </html>
