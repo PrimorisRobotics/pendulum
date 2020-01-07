@@ -3,12 +3,12 @@
 		<title>
 			Images and Videos-Website About Pendulums
 		</title>
-		<link rel="stylesheet" href="styles.css">
+		<link rel="stylesheet" type="text/css" href="styles.css"> 
 	</head>
 	<body>
 	<div class=”nav”>
 		<ul>
-      	 		<li><a href="yeet.html">home page</a></li>
+      	 		<li><a href="homepage.html">home page</a></li>
  	 		<li><a href="results.html">procedure</a>
 	 		<li><a href="ImagesAndVids.html">pictures</a></li>
 	 		<li><a href="experiments.html">about pendulums</a></li>
@@ -26,7 +26,7 @@
 				Here is a picture of our Physics teacher, Hasan Zerze, Ph.D.
 			</h2>
 		
-		<center><img src="Download.jpg" alt=”Our Teacher”></center>	
+		<center><img src="hasan.jpg" alt=”Our Teacher”></center>	
 	</div class=”Main”>		
 	</body>
 </html>
