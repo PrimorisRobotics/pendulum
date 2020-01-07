@@ -18,25 +18,7 @@
 	margin: 10px -5px 0 0;
 	width: 400px;
 }
-.nav li{
-	list-style:none;
-	float: left;
-}
-.nav li a{
-	float: left;
-	color: #333333;
-	padding: 6px 20px;
-	text-decoration: none;
-}
-.nav li a:hover{
-	float: left;
-	background-color:#ddddff;
-	color: #ffffff;
-	padding: 6px 20px;
-	border-right: 1px solid #000000;
-	text-decoration: none;
-	width: 110%;
-	height: 110%;
+
 }
 #col1{
 	float: left;
