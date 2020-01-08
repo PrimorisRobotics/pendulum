@@ -6,14 +6,14 @@
 	</head>
 	<body>
 		<div class="container">
-		<div class=”nav”>
-		<ul>
-  			<li><a href="homepage.html">Home Page</a></li>
-  			<li><a href="aboutpendulums.html">About Pendulums</a></li>
- 			 <li><a href="experiments.html">experiment</a></li>
-			  <li><a href="imagevid.html">Pictures</a></li>
-		</ul>
-		</div class=”nav”>
+		<div class="nav">
+    			<ul>
+      				<li><a href="homepage.html">home page</a></b></font></li>
+ 				<li><a href="aboutpendulums.html">about pendulums</a></b></font></li>
+	 			<li><a href="imagevid.html">pictures</a></b></font></li>
+	 			<li><a href="experiments.html">experiment</a></b></font></li>
+				</b></font>
+ 		</div>
 		<div class=”Main”>
 				<body style="background-color:aqua;">
 		This is a website about pendulums, their uses, and a recent experiment the creators of this website, Thomas Isernhagen, Emmanuel Zhang, and Jed Sloan, have performed using a pendulum. Use the navigation bar to navigate to the other pages of this website, which explain pendulums, the experiment, and one has images and animations related to the topic.
